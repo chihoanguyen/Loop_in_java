@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2_Loop in java.iml" filepath="$PROJECT_DIR$/.idea/2_Loop in java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Display/Display.iml" filepath="$PROJECT_DIR$/Display/Display.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DisplaysPrime/DisplaysPrime.iml" filepath="$PROJECT_DIR$/DisplaysPrime/DisplaysPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greatest _common _factor/Greatest _common _factor.iml" filepath="$PROJECT_DIR$/Greatest _common _factor/Greatest _common _factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatestCommonFactor/GreatestCommonFactor.iml" filepath="$PROJECT_DIR$/GreatestCommonFactor/GreatestCommonFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interest/Interest.iml" filepath="$PROJECT_DIR$/Interest/Interest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu/Menu.iml" filepath="$PROJECT_DIR$/Menu/Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime/Prime.iml" filepath="$PROJECT_DIR$/Prime/Prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeLess/primeLess.iml" filepath="$PROJECT_DIR$/primeLess/primeLess.iml" />
+    </modules>
+  </component>
+</project>
